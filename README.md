@@ -1,4 +1,4 @@
-# 👋 Hola, Soy Iván Ramírez Torres
+# 👋 Hola, Soy Iván Ramírez
 
 <a href="https://www.linkedin.com/in/iv%C3%A1n-ramirez-torres-5a6144240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
