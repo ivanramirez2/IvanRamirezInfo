@@ -5,6 +5,7 @@
 Soy Desarrollador de Aplicaciones Multiplataforma con formación especializada en Blockchain, Big Data y CLoud. Cuento con experiencia en desarrollo fullstack, soporte técnico y automatización de procesos. Actualmente, estoy ampliando mi perfil hacia dos áreas clave:
 
 🔗 Blockchain: explorando soluciones descentralizadas mediante Solidity y tecnologías Web3.
+
 💻 Desarrollo software: construcción de aplicaciones eficientes y escalables utilizando tecnologías modernas.
 
 
