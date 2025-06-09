@@ -39,19 +39,28 @@ Estoy abierto a oportunidades en ambos caminos profesionales, siempre buscando e
 
 ## ⚙️ Herramientas y Tecnologías
 
-### 🔐 Ciberseguridad & Redes
+### 🔐 Blockchain & Web3
+
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?&style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/-Brownie-2F2F2F?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Ganache-344E86?&style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Web3.py-2E75B6?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Ethers.js-2E2E2E?&style=for-the-badge&logo=ethers&logoColor=white" /> <img src="https://img.shields.io/badge/-Metamask-F6851B?&style=for-the-badge&logo=metamask&logoColor=white" /> <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-pytest-464646?&style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ### 💻 Desarrollo & Backend
 <div>
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?&style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?&style=for-the-badge&logo=solidity&logoColor=white" />
 </div>
+
 
 ### ☁️ Cloud & Office
 <div>
@@ -60,6 +69,13 @@ Estoy abierto a oportunidades en ambos caminos profesionales, siempre buscando e
   <img src="https://img.shields.io/badge/-SAP-0FAAFF?&style=for-the-badge&logo=sap&logoColor=white" />
 </div>
 
+
+### 🔐 Ciberseguridad & Redes
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 ---
 
 ## 📜 Certificaciones
