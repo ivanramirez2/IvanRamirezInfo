@@ -2,13 +2,24 @@
 
 <a href="https://www.linkedin.com/in/iv%C3%A1n-ramirez-torres-5a6144240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Soy Desarrollador de Aplicaciones Multiplataforma con formación especializada en Big Data, Cloud y Ciberseguridad. Mi experiencia combina desarrollo fullstack, soporte técnico y automatización de procesos. Actualmente, estoy enfocado en desarrollar habilidades en ciberseguridad y me encuentro en la búsqueda activa de una oportunidad como **Analista SOC Nivel 1** para aplicar mis conocimientos en un entorno real de seguridad.
+Soy Desarrollador de Aplicaciones Multiplataforma con formación especializada en Blockchain, Big Data y CLoud. Cuento con experiencia en desarrollo fullstack, soporte técnico y automatización de procesos. Actualmente, estoy ampliando mi perfil hacia dos áreas clave:
+
+🔗 Blockchain: explorando soluciones descentralizadas mediante Solidity y tecnologías Web3.
+💻 Desarrollo software: construcción de aplicaciones eficientes y escalables utilizando tecnologías modernas.
+
+
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Estoy en proceso de transición hacia el campo de la **ciberseguridad**, con especial interés en integrarme a un equipo de **Security Operations Center (SOC)**. Busco una posición de **Tier 1 SOC Analyst**, donde pueda combinar mis habilidades técnicas con una fuerte capacidad analítica y de resolución de problemas.
+Mi objetivo es incorporarme a un equipo que me permita seguir desarrollando habilidades técnicas y aportar valor en alguno de los siguientes roles:
+
+Desarrollador Software / Blockchain, participando en proyectos innovadores relacionados con smart contracts, DApps y tecnologías emergentes.
+
+Estoy abierto a oportunidades en ambos caminos profesionales, siempre buscando entornos de crecimiento, aprendizaje continuo y trabajo en equipo.
+
+
 
 ---
 
@@ -52,11 +63,21 @@ Estoy en proceso de transición hacia el campo de la **ciberseguridad**, con esp
 ## 📜 Certificaciones
 
 <div>
-  <img src="https://img.shields.io/badge/-Azure_AI_Fundamentals-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity_Certified_Programmer-222C37?&style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS_Cloud_Architecting-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_AI_Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blockchain_Basics-12100E?&style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_CCNA-1D63ED?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-1D63ED?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Linux_Essentials-1D63ED?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_SQL_Programming-F80000?&style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_Java_Fundamentals-F80000?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Access_2016-00A4EF?&style=for-the-badge&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel_2019-217346?&style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerPoint_2019-B7472A?&style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Word_2019-2B579A?&style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div>
+
 
 ---
 
@@ -72,7 +93,7 @@ Desarrollo de aplicación móvil con Kotlin y Jetpack Compose para operarios de 
 Desarrollo web para la gestión diaria de conductores:
 - Automatización de presentaciones
 - Impresión de servicios e informes
-- Reducción de tareas administrativas
+- Reducción de tareas administrativas en horas punta
 
 ---
 
