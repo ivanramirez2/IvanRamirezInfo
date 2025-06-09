@@ -113,7 +113,7 @@ Desarrollo de aplicación móvil con Kotlin y Jetpack Compose para operarios de 
 ### 🌐 Aplicación web ASP.NET (Metro ligero)
 Desarrollo web para la gestión diaria de conductores:
 - Automatización de presentaciones
-- Impresión de servicios e informes con la celda del servicio o incidencia que le corresponde
+- Impresión de servicios e informes con la celda en amarillo del servicio o incidencia que le corresponde
 - Reducción de tareas administrativas en horas punta
 
 ---
