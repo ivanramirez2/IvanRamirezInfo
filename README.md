@@ -29,7 +29,7 @@ Estoy abierto a oportunidades en ambos caminos profesionales, siempre buscando e
 | Habilidad                                     | Proyecto Asociado                                                                       |
 | --------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Desarrollo de aplicaciones móviles con Kotlin | [App Incidencias Operarios](https://github.com/ivanramirez2/AppIncidenciasOperarios)    |
-| Desarrollo web con ASP.NET y SQL Server       | [Aplicación de Presentaciones](https://github.com/ivanramirez2/AppIncidenciasOperarios) |
+| Desarrollo web con ASP.NET y SQL Server       | [Aplicación de Presentaciones](https://github.com/ivanramirez2/AplicacionPresentaciones) |
 | Automatización de procesos                    | [ASP.NET WebApp](https://github.com/ivanramirez2/AppIncidenciasOperarios)               |
 | Gestión de incidencias y soporte IT           | [Vithas IT Support](#experiencia)                                                       |
 | Seguridad en entornos Microsoft Azure         | [Azure AI Fundamentals](#certificaciones)                                               |
