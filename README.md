@@ -26,13 +26,14 @@ Estoy abierto a oportunidades en ambos caminos profesionales, siempre buscando e
 
 ## 🛠️ Habilidades Técnicas
 
-| Habilidad                                         | Proyecto Asociado         |
-|--------------------------------------------------|---------------------------|
-| Desarrollo de aplicaciones móviles con Kotlin    | [App Metro Ligero](#proyectos) |
-| Desarrollo web con ASP.NET y SQL Server          | [Gestión Conductores](#proyectos) |
-| Automatización de procesos                       | [ASP.NET WebApp](#proyectos) |
-| Gestión de incidencias y soporte IT              | [Vithas IT Support](#experiencia) |
-| Seguridad en entornos Microsoft Azure            | [Azure AI Fundamentals](#certificaciones) |
+| Habilidad                                     | Proyecto Asociado                                                                       |
+| --------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Desarrollo de aplicaciones móviles con Kotlin | [App Incidencias Operarios](https://github.com/ivanramirez2/AppIncidenciasOperarios)    |
+| Desarrollo web con ASP.NET y SQL Server       | [Aplicación de Presentaciones](https://github.com/ivanramirez2/AppIncidenciasOperarios) |
+| Automatización de procesos                    | [ASP.NET WebApp](https://github.com/ivanramirez2/AppIncidenciasOperarios)               |
+| Gestión de incidencias y soporte IT           | [Vithas IT Support](#experiencia)                                                       |
+| Seguridad en entornos Microsoft Azure         | [Azure AI Fundamentals](#certificaciones)                                               |
+
 
 ---
 
